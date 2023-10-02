@@ -1,7 +1,7 @@
-# Tableau
+# Financial Consumer Complaints
 ## Information is the oil of the 21st century, and analytics is the combustion engine!
 
-# An Analysis of Financial Consumer Complaints of a Finance Firm dated 2011 to 2020
+# An Analysis of Financial Consumer Complaints of a Finance Firm dated 2011 to 2020 using Tableau
 
 ## Introduction 
 The dataset was obtained from Data World.
